@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
+<<<<<<< HEAD
 /*HOLA EJEMPLO*/
+=======
+
+>>>>>>> prueba2
 
 public class Encuentranumero2{
 	public static void main (String[] args){

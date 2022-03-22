@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
+<<<<<<< HEAD
 */hola mundo*/
+=======
+>>>>>>> prueba2
 public class ArrayImpares{
 	public static void main (String[] args){
 		int[] numero = new int[15];
