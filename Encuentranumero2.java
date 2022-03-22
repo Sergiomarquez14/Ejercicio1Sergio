@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/*hola*/
+/*HOLA EJEMPLO*/
 
 public class Encuentranumero2{
 	public static void main (String[] args){
